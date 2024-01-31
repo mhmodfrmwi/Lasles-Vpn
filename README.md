@@ -26,4 +26,5 @@ LaslesVPN website is built using HTML and CSS, with a focus on responsiveness. I
 https://lasles-vpn-psi.vercel.app/
 
 ## screenshot
-![screencapture-quran-tab-page-vercel-app-2024-01-29-17_44_46](https://github.com/mhmodfrmwi/Lasles-Vpn/assets/151141036/3c2f69d2-2b33-4302-9a73-24652a8362cf)
+![screencapture-lasles-vpn-psi-vercel-app-2024-02-01-00_41_49](https://github.com/mhmodfrmwi/Lasles-Vpn/assets/151141036/98e719f4-5cc5-4e30-8a53-d4b814b01f96)
+

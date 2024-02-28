@@ -21,7 +21,7 @@ LaslesVPN website is built using HTML and CSS, with a focus on responsiveness. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/laslesvpn-website.git
+   git clone https://github.com/mhmodfrmwi/laslesvpn-website.git
 ## live-version
 https://lasles-vpn-psi.vercel.app/
 
